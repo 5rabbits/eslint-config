@@ -1,6 +1,6 @@
 {
   "name": "@5rabbits/eslint-config",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "description": "Shared ESLint configuration for Lemontech products.",
