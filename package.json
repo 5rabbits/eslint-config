@@ -3,7 +3,7 @@
   "version": "1.0.0-rc.2",
   "main": "index.js",
   "license": "MIT",
-  "description": "DMS component for Lemontech products",
+  "description": "Shared ESLint configuration for Lemontech products.",
   "author": "5rabbits <5rabbits@lemontech.com> (http://www.5rabbits.com)",
   "keywords": [
     "eslint",
