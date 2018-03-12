@@ -5,7 +5,13 @@
   "license": "MIT",
   "description": "DMS component for Lemontech products",
   "author": "5rabbits <5rabbits@lemontech.com> (http://www.5rabbits.com)",
-  "keywords": ["eslint", "a11y", "react", "5rabbits", "lemontech"],
+  "keywords": [
+    "eslint",
+    "a11y",
+    "react",
+    "5rabbits",
+    "lemontech"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/5rabbits/eslint-config"
