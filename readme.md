@@ -48,7 +48,7 @@ You can use [`husky`](https://github.com/typicode/husky) and [`lint-staged`](htt
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged",
+      "pre-commit": "lint-staged"
     }
   }
 }
