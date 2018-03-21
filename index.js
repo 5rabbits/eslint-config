@@ -9,6 +9,7 @@ module.exports = {
       exports: 'never',
       functions: 'never',
     }],
+    'default-case': 'off',
     'function-paren-newline': ['error', 'consistent'],
     'jsx-a11y/anchor-is-valid': ['error', {
       components: ['Link'],
